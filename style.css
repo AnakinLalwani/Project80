@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+.column1 {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    border: 1px, solid, black;
+}
+#column2 {
+    width: 50%;
+    display: inline;
+}
+#a1, #a2, #a3, #a4, #a5 {
+    display: inline;
+}
+span {
+    padding: 10px;
+}
+
